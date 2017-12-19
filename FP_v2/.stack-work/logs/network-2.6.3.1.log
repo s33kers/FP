@@ -1,0 +1,6 @@
+[1 of 1] Compiling Main             ( C:\Users\tadas\AppData\Local\Temp\stack5276\network-2.6.3.1\Setup.hs, C:\Users\tadas\AppData\Local\Temp\stack5276\network-2.6.3.1\.stack-work\dist\b7fec021\setup\Main.o )
+Linking C:\Users\tadas\AppData\Local\Temp\stack5276\network-2.6.3.1\.stack-work\dist\b7fec021\setup\setup.exe ...
+Configuring network-2.6.3.1...
+setup.exe: The package has a './configure' script. If you are on Windows, This
+requires a Unix compatibility toolchain such as MinGW+MSYS or Cygwin. If you
+are not on Windows, ensure that an 'sh' command is discoverable in your path.
